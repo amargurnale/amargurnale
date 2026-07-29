@@ -80,7 +80,7 @@
 
 # 🤝 Connect With Me
 
-💼 LinkedIn: (amar-gurnale2545)
+💼 LinkedIn: amar-gurnale2545
 
 📧 Email: amargurnale@gmail.com
 
