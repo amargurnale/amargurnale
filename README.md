@@ -78,10 +78,12 @@
 
 ---
 
-# 🤝 Connect With Me
+# 🤝 🌍 Connect With Me
 
-[💼 LinkedIn: linkedin.com/in/amar-gurnale2545](https://www.linkedin.com/in/amar-gurnale2545/)
+👨‍💻 GitHub ➜ https://github.com/amargurnale
 
-📧 Email: amargurnale@gmail.com
+💼 LinkedIn ➜ https://www.linkedin.com/in/amar-gurnale2545/
+
+📧 Email ➜ amargurnale@gmail.com
 
 🌍 Location: Pune, Maharashtra, India
